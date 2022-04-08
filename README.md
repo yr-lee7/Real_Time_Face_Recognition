@@ -10,4 +10,4 @@ https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project
 
 
 
-위 링크를 참고하여 **웹캠을 이용한 실시간 얼굴 인식** 세미 프로젝트를 진행해 보았다.
+위 링크를 참고하여 **웹캠을 이용한 실시간 얼굴 인식** 세미 프로젝트를 진행
